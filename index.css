@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e37500;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  font-family: "McLaren", cursive;
+}
+
+a {
+  text-decoration: none;
+  color:#61DAFB;
+}
+
+.header {
+
+  text-align: center;
+}
+
+.noneReactWork {
+  font-family: 'Press Start 2P', cursive;
+  color: #eccc68;
+  margin-left: 20px;
+}
+
+
+.nameColor {
+  color: #eccc68;
+}
+
+.reactWork {
+  font-family: 'Press Start 2P', cursive;
+  margin-left: 20px;
+  color: #61DAFB;
+}
+
+/* the below .fade-in and hover is to control the hover effect on links */
+.fade-in {
+opacity: 70%;
+transition:opacity 0.1s
+}
+
+.fade-in:hover {
+opacity:100%;
+transition:opacity 0.1s
+}
+/* the above .fade-in and hover is to control the hover effect on links */
+
+.noneReactWorkLink {
+  color: black;
+}
+
+.bodyWrapper {
+  min-height: 550px;
+
+}
+
+.spanReactColor {
+  color: #61DAFB;
+}
+
+
+footer {
+  text-align: center;
+}
