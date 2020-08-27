@@ -9,7 +9,7 @@ function List() {
           &nbsp;This Home Page</a>
       </li>
       <li>Day 1
-        <a href="#" className="fade-in">
+        <a href="https://eddie109109.github.io/secondReactToDoList/" className="fade-in">
           &nbsp;Simple To Do List App</a>
       </li>
     </ul>
