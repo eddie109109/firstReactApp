@@ -12,6 +12,10 @@ function List() {
         <a href="https://eddie109109.github.io/secondReactToDoList/" className="fade-in">
           &nbsp;Simple To Do List App</a>
       </li>
+      <li>Day 2
+        <a href="https://eddie109109.github.io/thirdReactWeakTicTacToe/" className="fade-in">
+          &nbsp;Weak AI Tic-Tac-Toe</a>
+      </li>
     </ul>
   </div>);
 }
