@@ -16,6 +16,10 @@ function List() {
         <a href="https://eddie109109.github.io/thirdReactWeakTicTacToe/" className="fade-in">
           &nbsp;Weak AI Tic-Tac-Toe</a>
       </li>
+      <li>Day 3
+        <a href="https://eddie109109.github.io/fourthReactUnbeatableTicTacToe/" className="fade-in">
+          &nbsp;Unbeatable AI Tic-Tac-Toe</a>
+      </li>
     </ul>
   </div>);
 }
