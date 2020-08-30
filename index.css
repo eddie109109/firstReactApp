@@ -28,15 +28,14 @@ a {
   color: #eccc68;
 }
 
-.reactWork {
+.reactNodejsWork {
   font-family: 'Press Start 2P', cursive;
   margin-left: 20px;
-  color: #61DAFB;
 }
 
 /* the below .fade-in and hover is to control the hover effect on links */
 .fade-in {
-opacity: 70%;
+opacity: 80%;
 transition:opacity 0.1s
 }
 
@@ -57,6 +56,10 @@ transition:opacity 0.1s
 
 .spanReactColor {
   color: #61DAFB;
+}
+
+.spanNodejsColor {
+  color: #3B823C;
 }
 
 
