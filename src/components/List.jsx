@@ -5,7 +5,7 @@ function List() {
     <h3 className="reactNodejsWork"><span className="spanReactColor">React</span> and <span className="spanNodejsColor">Node.js</span> work</h3>
     <ul>
       <li>Day 0
-        <a href="/" className="fade-in">
+        <a href="#" className="fade-in">
           &nbsp;This Home Page</a>
       </li>
       <li>Day 1
@@ -27,6 +27,10 @@ function List() {
       <li>Day 5
         <a href="https://eddie109109.github.io/sixthReactVideoImageAPIApp/" className="fade-in" >
           &nbsp;Video/Image API App</a>
+      </li>
+      <li>Day 6
+        <a href="/" className="fade-in" >
+          &nbsp;Video/Facebook API App</a>
       </li>
     </ul>
   </div>);
