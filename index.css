@@ -62,6 +62,10 @@ transition:opacity 0.1s
   color: #3B823C;
 }
 
+.spanJavascriptColor {
+  color: #EFD819;
+}
+
 
 footer {
   text-align: center;
