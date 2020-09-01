@@ -2,7 +2,7 @@ import React from "react";
 
 function List() {
   return (<div>
-    <h3 className="reactNodejsWork"><span className="spanReactColor">React</span> and <span className="spanNodejsColor">Node.js</span> work</h3>
+    <h3 className="reactNodejsWork"> <span className="spanJavascriptColor">Javascript</span> && <span className="spanReactColor">React</span> && <span className="spanNodejsColor">Node.js</span> work</h3>
     <ul>
       <li>Day 0
         <a href="https://eddie109109.github.io/firstReactApp/" className="fade-in">
@@ -29,8 +29,8 @@ function List() {
           &nbsp;Video/Image API App</a>
       </li>
       <li>Day 6
-        <a href="/" className="fade-in" >
-          &nbsp;Video/Facebook API App</a>
+        <a href="https://eddie109109.github.io/seventhSelfIntroduction/" className="fade-in" style={{color:"#EFD819"}}>
+          &nbsp;Self-Introduction App</a>
       </li>
     </ul>
   </div>);
