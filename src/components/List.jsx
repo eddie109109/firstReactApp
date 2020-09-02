@@ -37,8 +37,8 @@ function List() {
           &nbsp;Dictionary App</a>
       </li>
       <li>Day 8
-        <a href="/" className="fade-in" >
-          &nbsp;STH</a>
+        <a href="https://urban-dictionary-audio.herokuapp.com/" className="fade-in" style={{color:"#3B823C"}}>
+          &nbsp;Urban Dictionary with Movie Audio Clip App</a>
       </li>
     </ul>
   </div>);
