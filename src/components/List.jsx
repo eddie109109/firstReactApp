@@ -10,7 +10,7 @@ function List() {
       </li>
       <li>Day 1
         <a href="https://eddie109109.github.io/secondReactToDoList/" className="fade-in">
-          &nbsp;Simple To Do List App</a>
+          &nbsp;To Do List App(With Cached Function)</a>
       </li>
       <li>Day 2
         <a href="https://eddie109109.github.io/thirdReactWeakTicTacToe/" className="fade-in">
@@ -31,6 +31,14 @@ function List() {
       <li>Day 6
         <a href="https://eddie109109.github.io/seventhSelfIntroduction/" className="fade-in" style={{color:"#EFD819"}}>
           &nbsp;Self-Introduction App</a>
+      </li>
+      <li>Day 7
+        <a href="https://eddie109109.github.io/eightDictionaryApp/" className="fade-in" >
+          &nbsp;Dictionary App</a>
+      </li>
+      <li>Day 8
+        <a href="/" className="fade-in" >
+          &nbsp;STH</a>
       </li>
     </ul>
   </div>);
