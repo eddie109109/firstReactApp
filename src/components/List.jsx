@@ -40,6 +40,11 @@ function List() {
         <a href="https://urban-dictionary-audio.herokuapp.com/" className="fade-in" style={{color:"#3B823C"}}>
           &nbsp;Urban Dictionary with Movie Audio Clip App</a>
       </li>
+      <li>Day 9
+        <a href="https://eddie109109.github.io/tenthAppRefactoringDaySeven/" className="fade-in" style={{color:"#EFD819"}}>
+          &nbsp;Self-Introduction Refactoring Day 7's work</a>
+      </li>
+
     </ul>
   </div>);
 }
