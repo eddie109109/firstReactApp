@@ -123,6 +123,16 @@ function List() {
             &nbsp;Created a heading for AJ Hair Studio using CSS grid(side job)
           </a>
         </li>
+        <li>
+          Day 12
+          <a
+            href="https://eddie109109.github.io/thirteenFrontLoginRegister/"
+            className="fade-in"
+          >
+            &nbsp;Created frontend stuff (landing/login/register pages) for my
+            own social media site using CSS grid
+          </a>
+        </li>
       </ul>
     </div>
   );
