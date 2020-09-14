@@ -136,8 +136,8 @@ function List() {
         <li>
           Day 13
           <a href="https://edsbook-a4ba7.web.app/" className="fade-in">
-            &nbsp;Edsbook / Connected to a running database / tested with an
-            account
+            &nbsp;Edsbook (prototype) / Connected to a running database / tested
+            with an account
           </a>
         </li>
       </ul>
