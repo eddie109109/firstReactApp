@@ -133,6 +133,13 @@ function List() {
             own social media site using CSS grid
           </a>
         </li>
+        <li>
+          Day 13
+          <a href="https://edsbook-a4ba7.web.app/" className="fade-in">
+            &nbsp;Edsbook / Connected to a running database / tested with an
+            account
+          </a>
+        </li>
       </ul>
     </div>
   );
