@@ -140,6 +140,15 @@ function List() {
             with an account
           </a>
         </li>
+        <li>
+          Day 14
+          <a
+            href="https://google-translate-map.herokuapp.com/"
+            className="fade-in"
+          >
+            &nbsp;Play with Google's map API translate API and Vue.js
+          </a>
+        </li>
       </ul>
     </div>
   );
